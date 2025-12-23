@@ -5,3 +5,6 @@ I am learning Python step by step.
 Topics covered:
 - Print statements
 - Variables
+- type casting
+- inputs
+- basic operators
