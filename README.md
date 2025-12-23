@@ -2,7 +2,7 @@
 This repository contains my beginner Python programs.
 I am learning Python step by step.
 
-Topics covered:
+Topics (will be updated gradually)
 - Print statements
 - Variables
 - type casting
