@@ -8,3 +8,6 @@ Topics (will be updated gradually)
 - type casting
 - inputs
 - basic operators
+- string slicing
+- string methods
+- indexing
