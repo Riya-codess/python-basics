@@ -11,3 +11,5 @@ Topics (will be updated gradually)
 - string slicing
 - string methods
 - indexing
+- Conditional statements
+- match statement (Python 3.10+)
