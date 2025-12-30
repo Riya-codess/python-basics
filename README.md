@@ -13,3 +13,9 @@ Topics (will be updated gradually)
 - indexing
 - Conditional statements
 - match statement (Python 3.10+)
+- Looping statements
+- for loop
+- while loop
+- Break & continue examples
+- python functions
+- Types of function arguments  
