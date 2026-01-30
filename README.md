@@ -24,5 +24,8 @@ Topics (will be updated gradually)
 - quiz
 - sets
 - dictionaries
-- number guessing
- 
+## Python Mini Projects
+- Number Guessing Game
+- Menu Based Calculator
+- Student Management System
+These projects helped me understand Python logic, conditions, loops, functions, and data structures.
