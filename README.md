@@ -18,4 +18,11 @@ Topics (will be updated gradually)
 - while loop
 - Break & continue examples
 - python functions
-- Types of function arguments  
+- Types of function arguments
+- list and list methods
+- tuples and tuple methods
+- quiz
+- sets
+- dictionaries
+- number guessing
+ 
