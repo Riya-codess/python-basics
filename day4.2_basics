@@ -5,6 +5,7 @@ print("Current Time:", current_time)
 
 hour = int(time.strftime('%H'))
 
+# Greeting based on current hour
 if hour < 12:
     print("Good Morning Sir ")
 elif hour < 17:
