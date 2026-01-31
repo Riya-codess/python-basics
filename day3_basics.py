@@ -2,9 +2,10 @@ name = "riya choudhary"
 friend = "sneha"
 
 #slicing
-
+# Printing complete string
 print("hello, " + name)
 
+# Accessing individual characters (indexing)
 print(name[0])
 print(name[1])
 print(name[2])
@@ -14,6 +15,7 @@ print("lets use a for loop here \n")
 for character in name:
     print(character)
 
+# Slicing examples
 print(name[0:8])
 print(name[:-3])
 print(name[8:])
