@@ -1,5 +1,7 @@
+# List to store all student records
 students = []
 def add_student():
+    # Taking input from user
     roll = int(input("enter roll num: "))
     name = input("enter name: ")
     marks = (input("enter marks: "))
@@ -9,7 +11,7 @@ def add_student():
     "name": name,
     "marks": marks
 }
-
+  # Adding student to the list
     students.append(student)
     print("student added successfully \n")
 
@@ -27,6 +29,7 @@ def search_student():
     roll = int(input("enter roll num : "))
     found = False
 
+    # Looping through student list
     for i in students: 
         if i["roll"] == roll: 
             print("student found ")
