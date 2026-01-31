@@ -11,7 +11,7 @@ def student_info(name,age,course):
     print("age: ", age)
     print("course: ", course)
 
-
+# Calling functions
 add(4,5)
 
 greet()
