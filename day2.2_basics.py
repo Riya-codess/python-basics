@@ -1,7 +1,9 @@
+# Taking two numbers from user
 a = int(input("enter first no.: "))
 b = int(input("enter second no.: "))
 
 
+# Performing different operations
 print("the sum of", a, "and", b, "is", a+b)
 
 print("the sub of", a, "and", b, "is", a-b)
